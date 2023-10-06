@@ -164,6 +164,8 @@ _Autor: Anderson Silva Lima (www.linkedin.com/in/ls-anderson)_
 * https://www.spamhaus.org/
 * https://isc.sans.edu/diary/Suspicious+Domains+Tracking+Dashboard/23046
 
+
+https://scribd.vdownloaders.com/
 ***
 
 _Autor: Anderson Silva Lima (www.linkedin.com/in/ls-anderson)_
