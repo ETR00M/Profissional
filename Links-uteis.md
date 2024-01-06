@@ -30,6 +30,7 @@ _Autor: Anderson Silva Lima (www.linkedin.com/in/ls-anderson)_
 * https://guialinux.uniriotec.br/
 * https://gtfobins.github.io/
 * https://www.linuxforce.com.br/comandos-linux/
+* https://ss64.com/nt/
 
 ***
 
